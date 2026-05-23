@@ -1,0 +1,20 @@
+{
+    "balance": 100000.0,
+    "products": {
+        "1": {
+            "id": 1,
+            "name": "abebe",
+            "purchase_price": 500.0,
+            "sell_price": 600.0
+        }
+    },
+    "employees": {
+        "1": {
+            "id": 1,
+            "name": "aaaa",
+            "position": "aaa"
+        }
+    },
+    "warehouses": {},
+    "points_of_sale": {}
+}
